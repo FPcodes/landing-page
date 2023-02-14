@@ -1,2 +1,2 @@
 Landing Page
-https://fpcodes.github.io/odin-recipes/
+https://fpcodes.github.io/landing-page/
