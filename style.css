@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    font-size: 20px;
+    background-color: #ffcbc4;
+    width: 100%;
+    height: 55px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* SECTION ONE */
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 12px;
+}
+
+.section-one {
+    background-color: #ffa7a6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    height: 475px;
+}
+
+.section1-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.photo-of-sisi1 {
+    border: 2.5px white solid;
+    width: 350px;
+    height: 350px;
+}
+
+.hey {
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    height: 100px;
+    width: 350px;
+}
+
+.bio {
+    font-size: 22px;
+    height: 150px;
+    width: 400px;
+}
+
+/* SECTION TWO */
+
+.section-two {
+    background-color: #ffcbc4;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.brands {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 85px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.brands-text {
+    padding-left: 40px;
+}
+
+.photos {
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+}
+
+.n-collabs {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    height: 75px;
+    width: 265px;
+    margin-top: 40px;
+}
+
+.item-photo {
+    height: 250px;
+    width: 250px;
+    border: 2.5px white solid;
+}
+
+/* SECTION 3 */
+
+.section-three {
+    background-color: #ffa7a6;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    height: 100px;
+    width: 610px;
+    color: black;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.Yve {
+    height: 50px;
+    width: 150px;
+    color: black;
+    font-size: 22px;
+    font-style: italic;
+    margin-left: 510px;
+}
+
+/* SECTION 4 */
+
+.section-four {
+    background-color: #ffcbc4;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    border: 2px groove #ffa7a6;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    height: 150px;
+    width: 1000px;
+}
+
+.inquires {
+    font-size: 28px;
+    font-weight: bold;
+    height: 40px;
+    width: 475px;
+}
+
+.news {
+    font-size: 16px;
+    height: 25px;
+    width: 400px;
+}
+
+.signup {
+    height: 25px;
+    width: 60px;
+}
+
+.inquires-text {
+    display: flex;
+    flex-direction: column;
+}
+
+/* FOOTER */
+
+.footer  {
+    font-size: 20px;
+    background-color: #ffa7a6;
+    width: 100%;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
